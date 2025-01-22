@@ -4,8 +4,11 @@
 Este e-book de 9 páginas é um guia prático de como utilizar IAs Generativas.
 
 ## 🤖 Tecnologias Utilizadas
+
 IA Generativa ChatGPT para roteirização;
+
 IA Generativa Leonardo AI para criar a arte visual do e-book;
+
 Ferramenta Word para edição.
 
 ## 🧐 Processo de Criação
